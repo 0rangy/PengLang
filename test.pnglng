@@ -1,0 +1,9 @@
+var test = "penguin"
+var yeet = "yeet"
+var yeet2 = yeet
+var seggs = "seggs"
+
+printline(yeet)
+printline(test)
+printline(seggs)
+printline(yeet2)
